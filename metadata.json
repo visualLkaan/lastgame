@@ -1,0 +1,6 @@
+{
+  "name": "LAST STOP",
+  "description": "2.5D izometrik zombi hayatta kalma ve üs inşa oyunu. Terk edilmiş benzin istasyonunu güçlendir, duvarlar ör, taretler kur ve zombi dalgalarına karşı hayatta kal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
